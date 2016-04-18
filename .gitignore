@@ -1,29 +1,14 @@
 # OS X
 */.DS_Store
 .DS_Store
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# Linux
-.directory
-
-# Editor
-*.swp
-
+#Angular
+*/typings
 # npm
-node_modules
+*/node_modules
 *.log
-*.gz
-
-# IDE
-.idea/
-
+*.js.map
 # Coveralls
 coverage
-
 # Benchmarking
 benchmarks/graphs
 
