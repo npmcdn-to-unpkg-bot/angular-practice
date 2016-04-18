@@ -3,6 +3,7 @@
 .DS_Store
 #Angular
 */typings
+*.js
 # npm
 */node_modules
 *.log
